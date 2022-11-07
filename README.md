@@ -41,3 +41,5 @@ Production Mode: (Automatically set in deployments)
   Composer and Docker Compose are unrelated. Docker Compose is used to deploy a software stack while Composer is used to manage PHP dependencies.
     
  More documentation forthcoming. Feel free to ask any questions via the Issues tab.
+
+#test
